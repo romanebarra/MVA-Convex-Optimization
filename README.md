@@ -1,6 +1,6 @@
 # MVA-Convex-Optimization
 
-MVA ENS Paris Saclay - Homeworks for Convex Optimization and Applications ind Machine Learning.
+MVA ENS Paris Saclay - Homeworks for Convex Optimization and Applications in Machine Learning.
 
 HW1 : Convex sets and convex functions.
 
